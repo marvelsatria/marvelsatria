@@ -1,0 +1,74 @@
+body {
+	background-color: skyblue;
+	margin: 0px;
+}
+
+header {
+	background-color: grey;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.left-header {
+	color: whitesmoke;
+	padding-left: 150px;
+}
+
+nav{
+	padding-right: 150px;
+}
+
+nav a {
+	text-decoration: none;
+	padding-right: 60px;
+}
+
+nav a:hover {
+	color:white ;
+	background-color: blueviolet;
+	padding: 6px 20px  6px 20px;
+	border-radius: 8px;
+}
+
+.hero h1 {
+	font-size: 80px;
+}
+.hero {
+	color: grey;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#About {
+	color: grey;
+	background-color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+#About h1 {
+	text-align: center;
+	color: skyblue;
+	padding-bottom: 25px;
+}
+
+#misi {
+	color: grey ;
+	padding-left: 150px ;
+	padding-right: 150px;
+}
+
+.box{
+	width:250px ;
+	background-color: grey;
+}
+
+.box img {
+     pad
+}
